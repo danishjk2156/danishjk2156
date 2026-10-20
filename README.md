@@ -87,7 +87,6 @@ Building Intelligent Applications 🚀
 
 <img src="https://streak-stats.demolab.com?user=danishjk2156&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishjk2156&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
