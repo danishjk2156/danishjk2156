@@ -1,71 +1,62 @@
-# 👋 Hey, I'm Daanish!
+<div align="center">
 
-### 💻 Computer Science Student | Full-Stack Developer | Aspiring AI Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hey,%20I'm%20Daanish&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-> 🚀 Passionate about building impactful software, exploring AI, and understanding how technology works under the hood.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+impactful+software+%F0%9F%9A%80;Exploring+AI+agents+%26+LLMs+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%92%A1;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Repeat" alt="Typing SVG" />
+</a>
 
-I'm a Computer Science student interested in **Full-Stack Development, Artificial Intelligence, and Machine Learning**.
+<br/>
 
-I enjoy turning ideas into real-world applications, exploring new technologies, and building projects that help me grow as an engineer.
+![Profile Views](https://komarev.com/ghpvc/?username=danishjk2156&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/danishjk2156?style=flat-square&logo=github&color=2c5364)
 
-Currently learning, building, experimenting, and improving every day. 🌱
+</div>
 
 ---
 
-## 🚀 What I'm Interested In
+## 👨‍💻 About Me
 
-* 🤖 **AI Engineering** — Building intelligent applications powered by AI and LLMs.
-* 🌐 **Full-Stack Development** — Creating modern, responsive, end-to-end web applications.
-* ⚛️ **Frontend Development** — Building interactive user interfaces with React.
-* 🛠️ **Backend Development** — Developing APIs, server-side applications, and backend systems.
-* 🧠 **LLMs & AI Systems** — Exploring how large language models work and how to build AI-powered tools.
-* 💡 **Problem Solving** — Strengthening my programming fundamentals and data structures & algorithms.
+I'm a **Computer Science student** who loves building real-world applications across **Full-Stack Development, AI, and Machine Learning**.
+
+I enjoy turning ideas into working products, experimenting with new tech, and understanding how things work under the hood. 🌱
+
+---
+
+## 🚀 What I'm Into
+
+| | |
+|---|---|
+| 🤖 **AI Engineering** | LLM-powered apps and AI agents |
+| 🌐 **Full-Stack Development** | Modern, responsive, end-to-end web apps |
+| ⚛️ **Frontend** | Interactive UIs with React & Tailwind CSS |
+| 🛠️ **Backend** | APIs, servers, and backend architecture |
+| 🧠 **Machine Learning** | Training, evaluation, experimentation |
+| 💡 **Problem Solving** | DSA and strong programming fundamentals |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
-</p>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" />
 
-### 🌐 Frontend Development
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-### ⚙️ Backend Development
+**Databases & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**AI & ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
----
-
-## 🔭 What I'm Building & Learning
-
-| Area                      | Focus                                               |
-| ------------------------- | --------------------------------------------------- |
-| 🌐 Full-Stack Development | React, Node.js, Express.js, REST APIs               |
-| 🤖 AI Engineering         | LLMs, AI-powered applications, AI agents            |
-| 🧠 Machine Learning       | Model training, evaluation, and experimentation     |
-| 💻 Programming            | Java, JavaScript, Python, DSA                       |
-| ⚙️ Software Engineering   | Clean code, system design, and backend architecture |
+</div>
 
 ---
 
@@ -76,11 +67,7 @@ Programming Fundamentals
         ↓
 Data Structures & Algorithms
         ↓
-Frontend Development
-        ↓
-Backend Development
-        ↓
-Full-Stack Applications
+Frontend → Backend → Full-Stack Apps
         ↓
 Machine Learning & Deep Learning
         ↓
@@ -93,39 +80,51 @@ Building Intelligent Applications 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishjk2156&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishjk2156&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danishjk2156&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishjk2156&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=danishjk2156&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishjk2156&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
 ## 🎯 My Goal
 
-To become a skilled **AI Engineer and Full-Stack Developer** who can design, build, and deploy intelligent applications from the ground up.
-
-I want to go beyond simply using frameworks and libraries — I want to understand the fundamentals, solve real problems, and build software that makes a difference.
+To become a skilled **AI Engineer and Full-Stack Developer** who can design, build, and deploy intelligent applications from the ground up, going beyond frameworks to understand the fundamentals and solve real problems.
 
 ---
 
-## 💡 My Philosophy
+## 💡 Philosophy
+
+<div align="center">
 
 ```text
-Learn → Build → Experiment → Debug → Improve → Repeat.
+Learn → Build → Experiment → Debug → Improve → Repeat
 ```
 
-> "The best way to learn is to build something real."
+> *"The best way to learn is to build something real."*
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always interested in learning about new technologies, collaborating on interesting projects, and connecting with fellow developers.
+<div align="center">
 
-If you're passionate about **AI, Full-Stack Development, or building cool things**, let's connect!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danishjk2156)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-danish-a78a7b2a6)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishjk28052005@gmail.com)
 
----
+<br/>
 
-<p align="center">
-  <b>⚡ Building today. Engineering the future.</b>
-</p>
+**⚡ Building today. Engineering the future.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" />
+
+</div>
